@@ -4,7 +4,7 @@
 
 /* Q2 - la charte du parc : quatre variables, et plus aucune couleur ailleurs */
 :root {
-  --fond: #fdfaf4;
+  --fond: #f8e9c9;
   --texte: #23201c;
   --accent: #b8791f;
   --police: system-ui, "Segoe UI", Arial, sans-serif;
